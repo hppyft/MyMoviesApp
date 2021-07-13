@@ -39,5 +39,7 @@ class MainActivity : AppCompatActivity() {
         val operacao = 5L + 5 //Long(5L) + Int(5) -> Long(10L)
         val operacao2 = 5.5 + 2 //Double(5.5) + Int(2) -> Double(7.5)
         val operacao3 = "a" + 5 //String(a) + Int(5) -> String(a5)
+
+        val aaugsfuiaghdj
     }
 }
