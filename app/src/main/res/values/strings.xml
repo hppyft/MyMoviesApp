@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyMoviesApp</string>
+    <string name="usuario_label">Usuário</string>
+    <string name="senha_label">Senha</string>
+    <string name="sinopse_vingadores">123123123</string>
 </resources>
